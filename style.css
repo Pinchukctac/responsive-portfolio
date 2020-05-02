@@ -1,11 +1,35 @@
 /* Creating main backround image */
 body{
-    background: #858585;
+    background: #aebbb4;
 }
 
+/* Styling main features */
+p{
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
 
+.nav-link {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(34, 34, 34);
+}
 
 
 /* STYLING THE PORTFOLIO PAGE*/
@@ -44,7 +68,7 @@ body{
 }
   
 .text {
-    background-color: #4CAF50;
+    background-color: #3498bd;
     color: white;
     font-size: 16px;
     padding: 16px 32px;
@@ -57,6 +81,11 @@ body{
 }
 
 /* STYLING THE CONTACT PAGE */
+.form-group{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
 /* styling connect with me buttons in contact page */
 .wrapper{
     text-align: center;
@@ -122,6 +151,7 @@ body{
 /* send button style */
 .btn{
     background: #3498bd;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 img{
