@@ -1,4 +1,4 @@
-/* styling footer in contact page */
+/* styling connect with me buttons in contact page */
 
 .wrapper{
     text-align: center;
@@ -11,7 +11,7 @@
     background: #f1f1f1;
     margin: 10px;
     border-radius: 30%;
-    box-shadow: 0 5px 15px -5px #00000070;
+    box-shadow: 0 5px 15px -5px #3498bd;
     color: #3498bd;
     overflow: hidden;
     position: relative;
@@ -58,4 +58,18 @@
         top: -10%;
         left: -10%;
     }
+}
+
+/* styling send button on contact page */
+.btn{
+    background: #3498bd;
+}
+
+img{
+    margin-right: 10px;
+}
+
+/* Creating main backround image */
+body{
+    background: url("whitebrick.jpg");
 }
