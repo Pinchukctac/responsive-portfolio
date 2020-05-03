@@ -1,12 +1,12 @@
 /* Creating main backround image */
 body{
-    background: #f1f1f1;
+    background: #cdd3d8;
 }
 
 /* Styling main features */
 p{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -28,9 +28,7 @@ h1{
     bottom: 0;
     width: 100%;
     height: 5%;
-    background-color: rgb(34, 34, 34);
 }
-
 
 /* STYLING THE PORTFOLIO PAGE*/
 .contain {
@@ -49,7 +47,6 @@ h1{
 }
   
 .middle {
-    transition: .5s ease;
     opacity: 0;
     position: absolute;
     top: 50%;
