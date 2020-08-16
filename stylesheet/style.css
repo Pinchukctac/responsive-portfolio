@@ -1,8 +1,8 @@
 /* Creating main backround image */
 body{
     background-size: cover;
-    background-image: url('wp2732950.jpg');
-    color: white;
+    background-image: url('../assets/wp2732950.jpg');
+    color: #3498bd;
 }
 
 /* Styling main features */
@@ -52,6 +52,14 @@ h1{
   border-radius: 50%;
 }
 
+/* Styling for About ME */
+
+.aboutMe p {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
 /* STYLING THE PORTFOLIO PAGE*/
 .contain {
     position: relative;
@@ -87,7 +95,7 @@ h1{
 }
   
 .text {
-    background-color: #530e74;
+    background-color: #3498bd;
     color: white;
     font-size: 16px;
     padding: 16px 32px;
