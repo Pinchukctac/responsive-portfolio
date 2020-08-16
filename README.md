@@ -1,11 +1,6 @@
 # responsive-portfolio
 
 This is a personal responsive portfolio. 
-
 The first page is my personal bio. 
-
-The portfolio page has a total of 6 sections that would be linked to projects. They are currently not linked to anything. 
-
-The contact page has direct links to my personal social media files. 
-
-When you click on the first image on the portfolio page it will open the first project web site. THe Bacon Button 
+The Portfolio is separated into three sections. Front end projects, Back end projects, and Full stack Projects. 
+The contact page has buttons that will link to my professional social media pages. 
