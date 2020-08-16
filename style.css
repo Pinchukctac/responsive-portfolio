@@ -1,6 +1,8 @@
 /* Creating main backround image */
 body{
-    background: #cdd3d8;
+    background-size: cover;
+    background-image: url('wp2732950.jpg');
+    color: white;
 }
 
 /* Styling main features */
@@ -22,12 +24,32 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
 }
 
+.navbar {
+    background-color: black;
+}
+
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     height: 5%;
+}
+
+.title {
+    color: #3498bd;
+    font-size: 90px;
+    text-align: center;
+}
+
+.title2 {
+    color: #3498bd;
+    font-size: 30px;
+    text-align: center;
+}
+
+.rounded {
+  border-radius: 50%;
 }
 
 /* STYLING THE PORTFOLIO PAGE*/
@@ -65,7 +87,7 @@ h1{
 }
   
 .text {
-    background-color: #3498bd;
+    background-color: #530e74;
     color: white;
     font-size: 16px;
     padding: 16px 32px;
@@ -76,6 +98,13 @@ h1{
     text-align: center;
     display: block;
 }
+
+.center-main {
+    display: table-cell;
+    height: 800px;
+    vertical-align: middle;
+    width: 50%;
+  }
 
 /* STYLING THE CONTACT PAGE */
 .form-group{
